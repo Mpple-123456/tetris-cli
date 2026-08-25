@@ -1,8 +1,8 @@
-# Terminal Tetris
+# 🧩 Terminal Tetris
 
-经典俄罗斯方块，运行在终端中。
+经典俄罗斯方块游戏，运行在终端中。
 
-## 快速开始
+## 🚀 快速开始
 
 ```bash
 git clone https://github.com/Mpple-123456/tetris-cli.git
