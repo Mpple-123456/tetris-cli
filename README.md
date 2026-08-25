@@ -4,12 +4,11 @@
 
 ## 🚀 快速开始
 
-```bash
-git clone https://github.com/Mpple-123456/tetris-cli.git
-cd tetris-cli
+### git clone https://github.com/Mpple-123456/tetris-cli.git
+### cd tetris-cli
 # Windows 用户需安装 windows-curses
-pip install windows-curses
-python main.py
+### pip install windows-curses
+### python main.py
 
 # 操作说明
 
